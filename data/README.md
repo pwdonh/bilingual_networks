@@ -12,8 +12,8 @@ These can be downloaded from the following link: [does not exist yet]
 
 Extract the tarballs in this directory
 ```
-tar -xvzf en_preprocessed.tar.gz
-tar -xvzf fr_preprocessed.tar.gz
-tar -xvzf de_preprocessed.tar.gz
+tar -xvzf en_archive.tar.gz
+tar -xvzf fr_archive.tar.gz
+tar -xvzf de_archive.tar.gz
 ```
 These include the wav-files and TextGrid alignments, as well as the text files specifying our training/validation/test splits.
