@@ -10,7 +10,7 @@ For this paper, we renamed the individual files including the speaker and senten
 
 These can be downloaded from the following link: [does not exist yet]
 
-Extract the tarballs in this directory
+Extract the tarballs in the current directory:
 ```
 tar -xvzf en_archive.tar.gz
 tar -xvzf fr_archive.tar.gz
