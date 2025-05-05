@@ -1,0 +1,131 @@
+,cmu,ipa,homolog,v_or_c,sonority,manner,placerough,place,voicing,position,height,voweltype,voicingpair,lang,count,select,obstruents,pca_0,pca_1,pca_2,pca_o_0,pca_o_1,pca_o_2
+0,sil, - ,sil, - , - , - , - , - , - , - , - , - , - ,de,251017,False,False,-0.09032013,-0.017056927,0.08108501,-0.06702767,0.033900805,-0.016394967
+1,d,d,D,consonant,1: obstruents,plosive, - ,dental/alveolar,voiced, - , - , - ,t,de,377142,False,False,0.04403001,-0.01536559,0.05886132,-0.12951167,0.07952162,-0.07119372
+2,i,iː,IY,vowel,3: vowel,vowel, - , - , - ,front,close,monophthong, - ,de,294326,False,False,0.14198726,-0.03439836,-0.12893692,-0.08995989,-0.12812038,-0.123932
+3,S,ʃ,SH,consonant,1: obstruents,fricative, - ,postalveolar/palatal,voiceless, - , - , - ,ʃ,de,159775,False,False,0.049369313,0.02492243,0.09398238,-0.022099642,0.0183865,-0.04686799
+4,p,p,P,consonant,1: obstruents,plosive, - ,labial,voiceless, - , - , - ,p,de,120201,False,False,-0.0014738189,0.1046479,-0.0050410405,0.10029341,0.05372512,-0.04087537
+5,),ɛː,),vowel,3: vowel,vowel, - , - , - ,front,mid,monophthong, - ,de,22280,False,False,-0.056578398,0.009618245,0.054585934,0.021546468,0.067154,0.08534014
+6,@,ə,AH,vowel,3: vowel,vowel, - , - , - ,central,mid,monophthong, - ,de,793328,False,False,0.011107005,-0.022339262,-0.121040165,-0.018302856,-0.14694048,-0.06374906
+7,r,r,R,consonant,2: nasal/approximant,approximant, - ,postalveolar/palatal, - , - , - , - , - ,de,702025,False,False,-0.052169397,0.06842518,0.008960713,-0.055851635,-0.011421713,-0.049156
+8,v,v,V,consonant,1: obstruents,fricative, - ,labial,voiced, - , - , - ,f,de,197569,False,False,0.055320643,-0.0014060019,-0.014812235,-0.0043902807,-0.04458631,0.07527356
+9,e,eː,EE,vowel,3: vowel,vowel, - , - , - ,front,mid,monophthong, - ,de,219011,False,False,0.021978587,0.047244806,-0.006435998,0.014094397,-0.029603168,0.024865964
+10,n,n,N,consonant,2: nasal/approximant,nasal, - ,dental/alveolar, - , - , - , - , - ,de,904755,False,False,0.01206417,-0.020845845,0.0651502,-0.03240092,0.028607246,-0.17497154
+11,z,z,Z,consonant,1: obstruents,fricative, - ,dental/alveolar,voiced, - , - , - ,s,de,185266,False,False,-0.072515875,0.0655562,-0.03212856,0.10157521,-0.029489594,-0.10635642
+12,I,ɪ,IH,vowel,3: vowel,vowel, - , - , - ,front,close,monophthong, - ,de,387302,False,False,-0.031573202,-0.089108035,-0.0023004636,-0.12575766,-0.046369754,-0.13920517
+13,x,x,X,consonant,1: obstruents,fricative, - ,postalveolar/palatal,voiceless, - , - , - , - ,de,240338,False,False,0.087752745,0.03799992,0.12178889,-0.01644804,9.9756755e-05,-0.012630653
+14,E,ɛ,EH,vowel,3: vowel,vowel, - , - , - ,front,mid,monophthong, - ,de,251002,False,False,0.059301585,0.0027093487,-0.026462387,0.047090005,-0.050735757,-0.15523377
+15,l,l,L,consonant,2: nasal/approximant,approximant, - ,dental/alveolar, - , - , - , - , - ,de,347748,False,False,-0.003998,0.08771357,0.015015721,0.016268749,-0.018104833,-0.059796117
+16,W,aɪ̯,AI,vowel,3: vowel,vowel, - , - , - , - , - ,diphtong, - ,de,205973,False,False,0.026311079,-0.04239878,0.053113945,-0.09406243,-0.03782475,-0.061040543
+17,t,t,T,consonant,1: obstruents,plosive, - ,dental/alveolar,voiceless, - , - , - ,t,de,734838,False,False,0.057934918,0.023301188,0.016218184,-0.034276616,-0.06908356,-0.0980308
+18,m,m,M,consonant,2: nasal/approximant,nasal, - ,labial, - , - , - , - , - ,de,276648,False,False,0.06035679,-0.018700782,0.07979105,-0.12864389,-0.02943659,-0.059071742
+19,g,ɡ,G,consonant,1: obstruents,plosive, - ,velar/uvular,voiced, - , - , - ,k,de,182517,False,False,0.06431131,0.10205643,0.06341155,0.005299177,0.09925316,0.007932691
+20,s,s,S,consonant,1: obstruents,fricative, - ,dental/alveolar,voiceless, - , - , - ,s,de,353807,False,False,-0.02584291,0.14489381,0.08196369,0.10696818,0.08733941,-0.013839789
+21,f,f,F,consonant,1: obstruents,fricative, - ,labial,voiceless, - , - , - ,f,de,237297,False,False,0.108905815,-0.0524078,0.028777,-0.16533083,0.011367852,-0.06270341
+22,U,ʊ,UH,vowel,3: vowel,vowel, - , - , - ,back,close,monophthong, - ,de,144512,False,False,-0.072127774,0.0843158,0.08281837,0.02544431,0.015855396,0.004258916
+23,sp, - ,sp, - , - , - , - , - , - , - , - , - , - ,de,332874,False,False,-0.26215634,-0.10290946,0.17769234,-0.14059702,0.121935956,0.081626065
+24,h,h,HH,consonant,1: obstruents,fricative, - ,glottal,voiceless, - , - , - , - ,de,112794,False,False,-0.0056806603,-0.06016633,-0.003832668,-0.10266963,-0.07212293,-0.11603822
+25,a,aː,AA,vowel,3: vowel,vowel, - , - , - ,central,open,monophthong, - ,de,188265,False,False,-0.057651423,0.02299955,-0.04211146,-0.006586209,-0.048731443,-0.074300714
+26,b,b,B,consonant,1: obstruents,plosive, - ,labial,voiced, - , - , - ,p,de,173622,False,False,-0.031098496,-0.010465001,-0.029576618,-0.07815097,-0.053016257,-0.017840086
+27,&,a,&,vowel,3: vowel,vowel, - , - , - ,central,open,monophthong, - ,de,376986,False,False,0.018654495,0.019068886,0.02370159,-0.04546575,0.053468782,-0.008485622
+28,N,ŋ,NG,consonant,2: nasal/approximant,nasal, - ,velar/uvular, - , - , - , - , - ,de,65968,False,False,0.03229191,-0.12620866,0.039568316,-0.101888,-0.015148144,-0.05113502
+29,k,k,K,consonant,1: obstruents,plosive, - ,velar/uvular,voiceless, - , - , - ,k,de,227163,False,False,-0.035201546,0.070808284,0.08820997,-0.03546305,0.059253518,0.061131164
+30,j,j,Y,consonant,2: nasal/approximant,approximant, - ,postalveolar/palatal, - , - , - , - , - ,de,24693,False,False,0.05903382,-0.028787676,0.048313584,-0.025351413,0.03688546,-0.071067184
+31,o,oː,OO,vowel,3: vowel,vowel, - , - , - ,back,mid,monophthong, - ,de,136113,False,False,-0.03350055,0.096247554,0.083182245,0.008963436,-0.048211087,-0.06420168
+32,Y,ʏ,Y,vowel,3: vowel,vowel, - , - , - ,front,close,monophthong, - ,de,29888,False,False,0.058441207,0.06515528,0.015587132,-0.01652359,-0.0036151959,-0.00017879531
+33,y,yː,y,vowel,3: vowel,vowel, - , - , - ,front,close,monophthong, - ,de,42017,False,False,-0.0034941228,0.018964365,0.071123615,-0.017213456,-0.009508428,-0.08895612
+34,B,aʊ̯,AU,vowel,3: vowel,vowel, - , - , - , - , - ,diphtong, - ,de,100695,False,False,-0.048564725,-0.08131593,0.029781451,-0.12612157,0.012224443,-0.0529211
+35,=,ts,=,consonant,1: obstruents,affricate, - ,dental/alveolar,voiceless, - , - , - , - ,de,142579,False,False,0.050798807,0.047740266,0.033448976,-0.047458354,0.036518205,-0.06748876
+36,u,uː,UW,vowel,3: vowel,vowel, - , - , - ,back,close,monophthong, - ,de,104364,False,False,0.054030452,-0.0710172,0.0725637,-0.09376692,0.0073778336,-0.046482578
+37,O,ɔ,AO,vowel,3: vowel,vowel, - , - , - ,back,mid,monophthong, - ,de,127251,False,False,-0.039358035,-0.009117275,0.0939206,0.0069235153,0.03525831,-0.023363905
+38,|,øː,|,vowel,3: vowel,vowel, - , - , - ,front,mid,monophthong, - ,de,17291,False,False,-0.06156376,-0.03171922,0.026542671,-0.082647905,0.053350758,0.048250556
+39,c, - ,cinq, - , - , - , - , - , - , - , - , - , - ,de,94,False,False,-0.118313044,-0.08150892,-0.016558718,-0.12197369,-0.085855655,0.06262715
+40,Z,ʒ,ZH,consonant,1: obstruents,fricative, - ,postalveolar/palatal,voiced, - , - , - ,ʃ,de,2286,False,False,-0.07994019,-0.000172575,-0.003477499,-0.04288892,0.019962694,-0.023872519
+41,eins, - ,EY, - , - , - , - , - , - , - , - , - , - ,de,345,False,False,-0.049259055,-0.102030054,0.0605098,-0.07719311,0.04180921,-0.0916257
+42,X,ɔʏ̯,OI,vowel,3: vowel,vowel, - , - , - , - , - ,diphtong, - ,de,27927,False,False,-0.09137712,-0.066286266,0.028707555,-0.038307562,-0.027048659,0.023542216
+43,drei, - ,ER, - , - , - , - , - , - , - , - , - , - ,de,37,False,False,-0.09689798,-0.01098431,0.061653055,-0.07793406,-0.02803383,0.04474835
+44,/,œ,/,vowel,3: vowel,vowel, - , - , - ,front,mid,monophthong, - ,de,12673,False,False,0.03395964,-0.040102895,0.06507282,-0.11200981,0.115606494,0.029503083
+45,+,pf,PF,consonant,1: obstruents,affricate, - ,labial,voiceless, - , - , - , - ,de,8468,False,False,-0.0151715,0.03065228,-0.038425233,-0.0124766845,-0.117787845,0.02962535
+46,J,tʃ,CH,consonant,1: obstruents,affricate, - ,postalveolar/palatal,voiceless, - , - , - , - ,de,2957,False,False,0.07312295,0.05206803,-0.0012704432,-0.019114457,-0.058769576,-0.041910842
+47,~, - ,ons, - , - , - , - , - , - , - , - , - , - ,de,616,False,False,-0.018066071,-0.040963415,-0.011382692,-0.0984166,-0.014033615,0.038550608
+48,q, - ,@, - , - , - , - , - , - , - , - , - , - ,de,1410,False,False,-0.061848648,0.01960086,-0.011262916,-0.04577078,-0.09962617,-0.042597264
+49,{, - ,AE, - , - , - , - , - , - , - , - , - , - ,de,7,False,False,0.059257172,-0.07107914,0.1337247,-0.16685109,0.12209948,0.06190393
+50,sechs, - ,AW, - , - , - , - , - , - , - , - , - , - ,de,20,False,False,0.15967081,0.120527074,0.044669393,0.016626574,0.009911276,0.03372366
+51,spn, - ,spn, - , - , - , - , - , - , - , - , - , - ,de,15,False,False,0.071204536,0.015399874,-0.13944495,-0.02585122,-0.045544196,-0.31064424
+52, - , - ,cinq, - , - , - , - , - , - , - , - , - , - ,de,0,False,False,-0.02201511,0.10697152,0.107168615,0.048452143,0.014745424,-0.030406412
+53,_, - ,EY, - , - , - , - , - , - , - , - , - , - ,de,249,False,False,-0.052926943,0.06088861,0.045818098,0.017520756,-0.03407575,0.05777943
+54,vier, - ,OY, - , - , - , - , - , - , - , - , - , - ,de,9,False,False,-0.041949082,-0.023351833,-0.0202136,-0.041694473,-0.039157763,-0.053703547
+55,AH,ʌ,AH,vowel,3: vowel,vowel, - , - , - ,central,open,monophthong, - ,en,1752984,True,False,0.49930495,0.15542479,0.09848885,-0.050282538,-0.06916296,-0.08479947
+56,B,b,B,consonant,1: obstruents,plosive,labial,labial,voiced, - , - , - ,p,en,346454,True,True,-0.23008142,-0.57013893,0.036409136,-0.6889223,-0.18961185,-0.15960272
+57,AW,aʊ,AW,vowel,3: vowel,vowel, - , - , - , - , - ,diphtong, - ,en,122632,True,False,0.45539588,0.06726542,0.34845275,-0.072444305,-0.007419569,-0.023065753
+58,T,t,T,consonant,1: obstruents,plosive,coronal,dental/alveolar,voiceless, - , - , - ,t,en,1351742,True,True,-0.51039857,0.113784246,0.1662359,0.03106412,0.069762975,0.43806565
+59,IH,ɪ,IH,vowel,3: vowel,vowel, - , - , - ,front,close,monophthong, - ,en,1138540,True,False,0.21000178,0.28493783,-0.5376468,0.0004614517,-0.1207884,-0.08685446
+60,L,l,L,consonant,2: nasal/approximant,approximant, - ,dental/alveolar, - , - , - , - , - ,en,722313,True,False,0.2825929,-0.3483747,-0.058410745,-0.20070201,-0.032339558,-0.16535403
+61,EH,ɛ,EH,vowel,3: vowel,vowel, - , - , - ,front,mid,monophthong, - ,en,505990,True,False,0.45185417,0.4593101,0.0758377,0.07335007,-0.05732286,-0.050141305
+62,V,v,V,consonant,1: obstruents,fricative,labial,labial,voiced, - , - , - ,f,en,308814,True,True,-0.26244777,-0.36604613,0.06755096,-0.39087418,0.09138658,-0.40842554
+63,N,n,N,consonant,2: nasal/approximant,nasal,coronal,dental/alveolar, - , - , - , - , - ,en,1211189,True,False,0.04081015,-0.29176185,-0.22577383,-0.17055248,-0.17392407,-0.11453977
+64,AY,aɪ,AY,vowel,3: vowel,vowel, - , - , - , - , - ,diphtong, - ,en,371523,True,False,0.41926908,0.12096367,0.4259415,-0.03769471,0.0683463,-0.011965469
+65,W,w,W,consonant,2: nasal/approximant,approximant, - ,velar/uvular, - , - , - , - , - ,en,428141,True,False,0.11337971,-0.49239448,-0.042413127,-0.2856057,0.011368945,-0.1433756
+66,AO,ɔ,AO,vowel,3: vowel,vowel, - , - , - ,back,open,monophthong, - ,en,266504,True,False,0.51498467,-0.22375885,0.25788936,-0.087587215,0.09320315,-0.066820726
+67,K,k,K,consonant,1: obstruents,plosive,dorsal,velar/uvular,voiceless, - , - , - ,k,en,557643,True,True,-0.4024049,0.021101192,0.1493026,-0.08943557,0.011314621,0.6758891
+68,AE,æ,AE,vowel,3: vowel,vowel, - , - , - ,front,open,monophthong, - ,en,459972,True,False,0.44712046,0.3410196,0.33509,-0.023930972,0.0042018886,0.039793402
+69,M,m,M,consonant,2: nasal/approximant,nasal,labial,labial, - , - , - , - , - ,en,544406,True,False,0.021812791,-0.5144602,-0.09006432,-0.32617307,0.017272508,-0.2002556
+70,HH,h,HH,consonant,1: obstruents,fricative,dorsal,glottal,voiceless, - , - , - , - ,en,344118,True,True,-0.24225244,0.05700778,0.047206815,0.011163916,0.20252618,0.03330563
+71,OW,oʊ,OW,vowel,3: vowel,vowel, - , - , - , - , - ,diphtong, - ,en,248749,True,False,0.57972413,-0.12891507,0.06857928,-0.10242967,-0.087645754,-0.1296905
+72,EY,eɪ,EY,vowel,3: vowel,vowel, - , - , - , - , - ,diphtong, - ,en,303809,True,False,0.31850347,0.40569428,-0.23641844,0.05128922,-0.17920469,-0.0150863305
+73,R,ɹ,R,consonant,2: nasal/approximant,approximant, - ,postalveolar/palatal, - , - , - , - , - ,en,747105,True,False,0.25519523,-0.048580915,0.106512606,-0.07107335,-0.02075196,0.026025875
+74,IY,i,IY,vowel,3: vowel,vowel, - , - , - ,front,close,monophthong, - ,en,739292,True,False,0.09434577,0.18812855,-0.52046996,-0.017323414,-0.109410964,-0.014105293
+75,Z,z,Z,consonant,1: obstruents,fricative,coronal,dental/alveolar,voiced, - , - , - ,s,en,516448,True,True,-0.432625,0.034725413,0.10023156,0.22360428,0.10568246,-0.5800832
+76,TH,θ,TH,consonant,1: obstruents,fricative, - ,dental/alveolar,voiceless, - , - , - ,θ,en,112878,True,True,-0.47601113,-0.023868736,0.27045015,-0.081055194,0.46277457,0.036056407
+77,NG,ŋ,NG,consonant,2: nasal/approximant,nasal,dorsal,velar/uvular, - , - , - , - , - ,en,218981,True,False,0.046598475,-0.15563585,-0.3150519,-0.07630862,-0.16100898,0.01999121
+78,S,s,S,consonant,1: obstruents,fricative,coronal,dental/alveolar,voiceless, - , - , - ,s,en,851225,True,True,-0.4972566,0.21263161,0.3607904,0.3675358,0.46171984,-0.2067769
+79,D,d,D,consonant,1: obstruents,plosive,coronal,dental/alveolar,voiced, - , - , - ,t,en,753534,True,True,-0.44612584,-0.14940342,-0.22229756,-0.25989345,-0.48475388,-0.046784557
+80,P,p,P,consonant,1: obstruents,plosive,labial,labial,voiceless, - , - , - ,p,en,352090,True,True,-0.36815292,-0.31288576,0.33682895,-0.44340566,0.2972781,0.34054276
+81,DH,ð,DH,consonant,1: obstruents,fricative, - ,dental/alveolar,voiced, - , - , - ,θ,en,561905,True,True,-0.32056636,-0.35218075,-0.09063831,-0.44932026,-0.13105035,-0.35285965
+82,ER,ɝ,ER,vowel,3: vowel,vowel, - , - , - ,central,mid,monophthong, - ,en,458771,True,False,0.42245367,0.15898785,0.081498705,-0.021162737,-0.0761881,-0.054933093
+83,AA,ɑ,AA,vowel,3: vowel,vowel, - , - , - ,central,open,monophthong, - ,en,289096,True,False,0.6005222,-0.0035961242,0.43655452,-0.03319852,-0.0038665745,-0.0039975457
+84,UW,u,UW,vowel,3: vowel,vowel, - , - , - ,back,close,monophthong, - ,en,310148,True,False,0.2278624,-0.0631435,-0.56219685,-0.0365367,-0.17925754,-0.06023535
+85,SH,ʃ,SH,consonant,1: obstruents,fricative, - ,postalveolar/palatal,voiceless, - , - , - ,ʃ,en,131676,True,True,-0.43275857,0.5456895,0.12794957,0.6740534,0.053077474,0.014050467
+86,G,ɡ,G,consonant,1: obstruents,plosive,dorsal,velar/uvular,voiced, - , - , - ,k,en,173972,True,True,-0.26309446,-0.19917473,-0.28621873,-0.31298563,-0.5543342,0.190681
+87,F,f,F,consonant,1: obstruents,fricative,labial,labial,voiceless, - , - , - ,f,en,303292,True,True,-0.4919694,-0.13738912,0.48465127,-0.06578782,0.65982485,0.010373326
+88,Y,j,Y,consonant,2: nasal/approximant,approximant, - ,postalveolar/palatal, - , - , - , - , - ,en,191797,True,False,-0.081599124,0.051885944,-0.5596143,0.07435258,-0.25986984,-0.095061086
+89,CH,tʃ,CH,consonant,1: obstruents,affricate, - ,postalveolar/palatal,voiceless, - , - , - ,tʃ,en,78718,True,True,-0.45380798,0.5341849,0.042775083,0.5597782,-0.17420305,0.36478698
+90,UH,ʊ,UH,vowel,3: vowel,vowel, - , - , - ,back,close,monophthong, - ,en,95954,True,False,0.34542942,-0.025048729,-0.23922242,-0.048205122,-0.12112753,0.100335956
+91,JH,dʒ,JH,consonant,1: obstruents,affricate, - ,postalveolar/palatal,voiced, - , - , - ,tʃ,en,89166,True,True,-0.46387488,0.34764504,-0.27752253,0.37755767,-0.6130193,5.9736893e-05
+92,ZH,ʒ,ZH,consonant,1: obstruents,fricative, - ,postalveolar/palatal,voiced, - , - , - ,ʃ,en,9603,True,True,-0.31263936,0.44878644,-0.11719082,0.53692317,-0.26837528,-0.34927866
+93,OY,ɔɪ,OY,vowel,3: vowel,vowel, - , - , - , - , - ,diphtong, - ,en,40795,True,False,0.34090543,-0.14241575,-0.044076953,-0.07462983,-0.07709216,-0.07058357
+94,l,l,L,consonant,2: nasal/approximant,approximant, - ,dental/alveolar, - , - , - , - , - ,fr,238667,False,False,-0.044598684,0.03823938,0.04681531,-0.041819282,0.060594488,0.1388006
+95,a,a,AA,vowel,3: vowel,vowel, - , - , - ,central,open,monophthong, - ,fr,319241,False,False,-0.025944168,0.0510443,0.08433745,-0.021843368,0.04048353,-0.05678574
+96,p,p,P,consonant,1: obstruents,plosive,labial,labial,voiceless, - , - , - ,p,fr,119025,False,False,0.0663035,0.080267556,-0.028109293,-0.029834555,-0.18453582,0.04036078
+97,R,ʁ,R,consonant,2: nasal/approximant,approximant, - ,velar/uvular, - , - , - , - , - ,fr,328043,False,False,0.02100693,-0.0973975,0.09547411,-0.14323512,0.012436142,-0.01891929
+98,O,ɔ,AO,vowel,3: vowel,vowel, - , - , - ,back,mid,monophthong, - ,fr,42506,False,False,-0.07954614,0.052813828,-0.032850947,0.011764493,0.0067770383,-0.08058291
+99,e,e,EE,vowel,3: vowel,vowel, - , - , - ,front,mid,monophthong, - ,fr,209381,False,False,0.013113014,0.012346576,-0.12474948,-0.07395974,-0.017620802,0.0020895824
+100,s,s,S,consonant,1: obstruents,fricative,coronal,dental/alveolar,voiceless, - , - , - ,s,fr,252822,False,False,-0.08507584,0.02478902,0.14618576,-0.057740957,-0.036314115,-0.053381383
+101,t,t,T,consonant,1: obstruents,plosive,coronal,dental/alveolar,voiceless, - , - , - ,t,fr,212881,False,False,0.013289632,-0.011711116,0.03459844,-0.03860812,-0.0050398973,-0.02220928
+102,m,m,M,consonant,2: nasal/approximant,nasal,labial,labial, - , - , - , - , - ,fr,140654,False,False,-0.024013419,0.0758126,-0.035713207,0.0468031,-0.016234232,-0.041796587
+103,d,d,D,consonant,1: obstruents,plosive,coronal,dental/alveolar,voiced, - , - , - ,t,fr,171140,False,False,-0.12810141,0.024635378,0.05377911,-0.03383002,-0.029991334,-0.03864766
+104,o,o,OO,vowel,3: vowel,vowel, - , - , - ,back,mid,monophthong, - ,fr,96287,False,False,-0.06983038,0.036163792,0.0431289,-0.009691643,0.031003956,0.094827324
+105,deux,ø,|,vowel,3: vowel,vowel, - , - , - ,front,mid,monophthong, - ,fr,137441,False,False,-0.111447215,0.007852355,-0.115889564,0.01699745,-0.12076911,-0.08067779
+106,j,j,Y,consonant,2: nasal/approximant,approximant, - ,postalveolar/palatal, - , - , - , - , - ,fr,70779,False,False,-0.13786118,0.029919758,0.046671458,0.010692965,0.0086868275,-0.048689067
+107,E,ɛ,EH,vowel,3: vowel,vowel, - , - , - ,front,mid,monophthong, - ,fr,164007,False,False,-0.05626065,-0.022022698,0.084376305,-0.08671544,0.052117158,-0.01595657
+108,u,u,UW,vowel,3: vowel,vowel, - , - , - ,back,close,monophthong, - ,fr,77121,False,False,0.009543123,-0.109482385,0.03311713,-0.16506419,-0.057639144,-0.14050423
+109,^,ə,AH,vowel,3: vowel,vowel, - , - , - ,central,mid,monophthong, - ,fr,68878,False,False,0.107438475,0.05751083,-0.007242549,0.05533735,-0.066630565,-0.03999456
+110,n,n,N,consonant,2: nasal/approximant,nasal,coronal,dental/alveolar, - , - , - , - , - ,fr,102279,False,False,0.096199654,-0.092789814,0.04048211,-0.18227617,-0.048636444,-0.004570065
+111,i,i,IY,vowel,3: vowel,vowel, - , - , - ,front,close,monophthong, - ,fr,192930,False,False,-0.08040687,-0.0096992245,0.13201039,-0.07539459,0.03799751,0.07844163
+112,@,ɑ̃,@,vowel,3: vowel,vowel, - , - , - ,back,open,nasal, - ,fr,142830,False,False,-0.026933474,-0.056894302,-0.008734543,-0.018377561,-0.031503145,0.0062606465
+113,y,y,y,vowel,3: vowel,vowel, - , - , - ,front,close,monophthong, - ,fr,88876,False,False,0.09208077,-0.015834238,-0.035192136,-0.0852248,-0.027026463,-0.0002685655
+114,cinq,ɛ̃,cinq,vowel,3: vowel,vowel, - , - , - ,front,open,nasal, - ,fr,57477,False,False,0.095535606,-0.0499385,-0.039335404,-0.061542448,-0.031038303,-0.098394595
+115,k,k,K,consonant,1: obstruents,plosive,dorsal,velar/uvular,voiceless, - , - , - ,k,fr,135627,False,False,-0.035355262,-0.014889254,-0.06975733,-0.03752059,0.007799597,-0.09937341
+116,un,œ̃,un,vowel,3: vowel,vowel, - , - , - ,front,open,nasal, - ,fr,15171,False,False,0.043625813,0.08216766,0.06588066,-0.03350199,0.0060318424,0.017333189
+117,f,f,F,consonant,1: obstruents,fricative,labial,labial,voiceless, - , - , - ,f,fr,48598,False,False,-0.026840001,0.041150838,0.038619492,-0.020348093,-0.006732788,0.16356692
+118,w,w,W,consonant,2: nasal/approximant,approximant, - ,velar/uvular, - , - , - , - , - ,fr,43272,False,False,-0.022517415,0.021317616,0.020759014,-0.09698722,-0.038932614,0.03151056
+119,g,g,G,consonant,1: obstruents,plosive,dorsal,velar/uvular,voiced, - , - , - ,k,fr,24112,False,False,-0.04324313,0.027320754,0.116836995,-0.02403862,0.061271306,0.034776382
+120,N,ɔ̃,ons,vowel,3: vowel,vowel, - , - , - ,back,mid,nasal, - ,fr,71498,False,False,0.013928764,0.10832603,-0.13251881,-0.012312572,-0.18857768,-0.013917326
+121,z,z,Z,consonant,1: obstruents,fricative,coronal,dental/alveolar,voiced, - , - , - ,s,fr,41531,False,False,0.0822412,-0.0834926,0.10470368,-0.13354944,0.0126548335,-0.14589073
+122,huit,ɥ,huit,consonant,2: nasal/approximant,approximant, - ,postalveolar/palatal, - , - , - , - , - ,fr,18010,False,False,-0.026979053,0.116801046,0.08939715,0.031062301,0.06407773,0.15027055
+123,v,v,V,consonant,1: obstruents,fricative,labial,labial,voiced, - , - , - ,f,fr,94351,False,False,-0.0074070827,0.004386101,0.003721919,-0.07134125,0.021071032,0.020273088
+124,S,ʃ,SH,consonant,1: obstruents,fricative, - ,postalveolar/palatal,voiceless, - , - , - ,ʃ,fr,24009,False,False,-0.03897249,-0.016941886,0.0023428556,-0.043384243,0.031203073,0.04831121
+125,neuf,œ,/,vowel,3: vowel,vowel, - , - , - ,front,mid,monophthong, - ,fr,18661,False,False,0.013182364,0.03789777,0.10895792,0.026416171,0.06289132,-0.017756877
+126,Z,ʒ,ZH,consonant,1: obstruents,fricative, - ,postalveolar/palatal,voiced, - , - , - ,ʃ,fr,50971,False,False,0.015349593,-0.00036515202,-0.020614658,0.0667188,0.05439394,-0.048106886
+127,b,b,B,consonant,1: obstruents,plosive,labial,labial,voiced, - , - , - ,p,fr,47877,False,False,0.076614685,-0.09558393,-0.08837573,-0.20361209,-0.027882017,-0.031421013
+128,G, - ,NG, - , - , - , - , - , - , - , - , - , - ,fr,164,False,False,-0.09602122,0.0024452414,0.07303858,-0.005862143,0.0061949356,-0.081742786
+129,x, - ,X, - , - , - , - , - , - , - , - , - , - ,fr,63,False,False,0.041070346,0.023474041,0.06437768,-0.06743774,-0.038385693,0.005042473
