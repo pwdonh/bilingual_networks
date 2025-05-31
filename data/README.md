@@ -8,7 +8,7 @@ We used the [Common Voice dataset](https://commonvoice.mozilla.org/) by the Mozi
 
 For this paper, we renamed the individual files including the speaker and sentence IDs. We also created a phoneme- and word-level alignment using the [Montreal Forced Aligner](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner).
 
-These can be downloaded from the following link: [link will follow in a few days]
+These can be downloaded from this [link](http://gofile.me/2fFOZ/NsYba7F6V)
 
 Extract the tarballs in the current directory:
 ```
